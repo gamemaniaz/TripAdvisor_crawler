@@ -34,18 +34,18 @@ def main():
         # extracting hotel information
         info_block = soup.find('div', {'id': 'atf_header'})
         overall_rating = soup.find('span', {'class': 'hotels-hotel-review-about-with-photos-Reviews__overallRating--vElGA'})
-        address = info_block.find('span', {'class': 'detail'}).text
+        address = info_block.find('span', {'class': 'detail'}).text if info_block.find('span', {'class': 'detail'}) else None
         phone = info_block.find('span', {'class': 'is-hidden-mobile'}).text if info_block.find('span', {'class': 'is-hidden-mobile'}) else None
-        rank = info_block.find('span', {'class': 'header_popularity'}).text
+        rank = info_block.find('span', {'class': 'header_popularity'}).text if info_block.find('span', {'class': 'header_popularity'}) else None
         ratings = [tag.text for tag in soup.find_all('span', {'class': 'hotels-review-list-parts-ReviewRatingFilter__row_num--gIW_f'})]
 
         if not ratings:
             ratings = [None] * 5
 
-        hotel['overall_rating'] = overall_rating if overall_rating else None 
-        hotel['address'] = address if address else None
-        hotel['phone'] = phone if phone else None
-        hotel['rank'] = rank if rank else None
+        hotel['overall_rating'] = overall_rating
+        hotel['address'] = address
+        hotel['phone'] = phone
+        hotel['rank'] = rank
         hotel['excellent'] = ratings[0]
         hotel['good'] = ratings[1]
         hotel['average'] = ratings[2]
