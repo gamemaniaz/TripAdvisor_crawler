@@ -1,0 +1,361 @@
+id,hotel_name,n_comment,rank_in_country,url
+1,b'Marina Bay Sands',27330,b'#1 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1770798-Reviews-Marina_Bay_Sands-Singapore.html
+2,b'Park Avenue Rochester Hotel',717,b'#2 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2435463-Reviews-Park_Avenue_Rochester_Hotel-Singapore.html
+3,b'Rendezvous Hotel Singapore by Far East Hospitality',4070,b'#3 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d299606-Reviews-Rendezvous_Hotel_Singapore_by_Far_East_Hospitality-Singapore.html
+4,b'Hotel Nostalgia',1376,b'#4 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1546256-Reviews-Hotel_Nostalgia-Singapore.html
+5,b'ibis Singapore on Bencoolen Hotel',7117,b'#5 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1229624-Reviews-Ibis_Singapore_on_Bencoolen_Hotel-Singapore.html
+6,b'Holiday Inn Express Singapore Clarke Quay',2619,b'#6 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4885970-Reviews-Holiday_Inn_Express_Singapore_Clarke_Quay-Singapore.html
+7,b'Sandpiper Hotel Singapore',515,b'#7 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d5438552-Reviews-Sandpiper_Hotel_Singapore-Singapore.html
+8,b'Hotel Jen Orchardgateway Singapore by Shangri-La',2629,b'#8 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7056556-Reviews-Hotel_Jen_Orchardgateway_Singapore_by_Shangri_La-Singapore.html
+9,b'Park Hotel Clarke Quay',5945,b'#9 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1239596-Reviews-Park_Hotel_Clarke_Quay-Singapore.html
+10,b'M Social Singapore',935,b'#10 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d10048396-Reviews-M_Social_Singapore-Singapore.html
+11,b'30 Bencoolen',347,b'#11 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d305428-Reviews-30_Bencoolen-Singapore.html
+12,b'Grand Copthorne Waterfront Hotel',4039,b'#12 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301679-Reviews-Grand_Copthorne_Waterfront_Hotel-Singapore.html
+13,b'The Fullerton Hotel Singapore',4749,b'#13 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306173-Reviews-The_Fullerton_Hotel_Singapore-Singapore.html
+14,b'Village Hotel Katong by Far East Hospitality',2990,b'#14 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2526267-Reviews-Village_Hotel_Katong_by_Far_East_Hospitality-Singapore.html
+15,b'YOTEL Singapore',2169,b'#15 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12559807-Reviews-YOTEL_Singapore-Singapore.html
+16,b'Hotel G Singapore',2985,b'#16 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4329102-Reviews-Hotel_G_Singapore-Singapore.html
+17,b'Grand Park City Hall',3640,b'#17 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306176-Reviews-Grand_Park_City_Hall-Singapore.html
+18,b'Orchard Hotel Singapore',4366,b'#18 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d305520-Reviews-Orchard_Hotel_Singapore-Singapore.html
+19,b'Capri by Fraser Changi City',1691,b'#19 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3291174-Reviews-Capri_by_Fraser_Changi_City-Singapore.html
+20,b'One Farrer Hotel',1859,b'#20 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d6530192-Reviews-One_Farrer_Hotel-Singapore.html
+21,b'Royal Plaza on Scotts',4931,b'#21 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d304611-Reviews-Royal_Plaza_on_Scotts-Singapore.html
+22,b'PARKROYAL on Pickering',3968,b'#22 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3523347-Reviews-PARKROYAL_on_Pickering-Singapore.html
+23,b'Village Hotel Changi by Far East Hospitality',4977,b'#23 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2090222-Reviews-Village_Hotel_Changi_by_Far_East_Hospitality-Singapore.html
+24,b'Sofitel Singapore Sentosa Resort & Spa',2488,b'#24 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d302969-Reviews-Sofitel_Singapore_Sentosa_Resort_Spa-Sentosa_Island.html
+25,b'Marina Mandarin Singapore',7269,b'#25 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d300855-Reviews-Marina_Mandarin_Singapore-Singapore.html
+26,b'Grand Hyatt Singapore',3915,b'#26 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306175-Reviews-Grand_Hyatt_Singapore-Singapore.html
+27,b'Crowne Plaza Changi Airport',5765,b'#27 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1086295-Reviews-Crowne_Plaza_Changi_Airport-Singapore.html
+28,b'Park Avenue Changi Hotel',638,b'#28 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4328402-Reviews-Park_Avenue_Changi_Hotel-Singapore.html
+29,b'Mandarin Orchard Singapore',11187,b'#29 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d300850-Reviews-Mandarin_Orchard_Singapore-Singapore.html
+30,b'Resorts World Sentosa - Equarius Hotel',1488,b'#30 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d1447343-Reviews-Resorts_World_Sentosa_Equarius_Hotel-Sentosa_Island.html
+31,b'Marina Bay Sands',27330,b'#1 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1770798-Reviews-Marina_Bay_Sands-Singapore.html
+32,b'Park Avenue Rochester Hotel',717,b'#2 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2435463-Reviews-Park_Avenue_Rochester_Hotel-Singapore.html
+33,b'Rendezvous Hotel Singapore by Far East Hospitality',4070,b'#3 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d299606-Reviews-Rendezvous_Hotel_Singapore_by_Far_East_Hospitality-Singapore.html
+34,b'Hotel Nostalgia',1376,b'#4 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1546256-Reviews-Hotel_Nostalgia-Singapore.html
+35,b'ibis Singapore on Bencoolen Hotel',7117,b'#5 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1229624-Reviews-Ibis_Singapore_on_Bencoolen_Hotel-Singapore.html
+36,b'Holiday Inn Express Singapore Clarke Quay',2619,b'#6 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4885970-Reviews-Holiday_Inn_Express_Singapore_Clarke_Quay-Singapore.html
+37,b'Sandpiper Hotel Singapore',515,b'#7 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d5438552-Reviews-Sandpiper_Hotel_Singapore-Singapore.html
+38,b'Hotel Jen Orchardgateway Singapore by Shangri-La',2629,b'#8 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7056556-Reviews-Hotel_Jen_Orchardgateway_Singapore_by_Shangri_La-Singapore.html
+39,b'Park Hotel Clarke Quay',5945,b'#9 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1239596-Reviews-Park_Hotel_Clarke_Quay-Singapore.html
+40,b'M Social Singapore',935,b'#10 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d10048396-Reviews-M_Social_Singapore-Singapore.html
+41,b'30 Bencoolen',347,b'#11 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d305428-Reviews-30_Bencoolen-Singapore.html
+42,b'Grand Copthorne Waterfront Hotel',4039,b'#12 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301679-Reviews-Grand_Copthorne_Waterfront_Hotel-Singapore.html
+43,b'The Fullerton Hotel Singapore',4749,b'#13 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306173-Reviews-The_Fullerton_Hotel_Singapore-Singapore.html
+44,b'Village Hotel Katong by Far East Hospitality',2990,b'#14 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2526267-Reviews-Village_Hotel_Katong_by_Far_East_Hospitality-Singapore.html
+45,b'YOTEL Singapore',2169,b'#15 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12559807-Reviews-YOTEL_Singapore-Singapore.html
+46,b'Hotel G Singapore',2985,b'#16 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4329102-Reviews-Hotel_G_Singapore-Singapore.html
+47,b'Grand Park City Hall',3640,b'#17 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306176-Reviews-Grand_Park_City_Hall-Singapore.html
+48,b'Orchard Hotel Singapore',4366,b'#18 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d305520-Reviews-Orchard_Hotel_Singapore-Singapore.html
+49,b'Capri by Fraser Changi City',1691,b'#19 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3291174-Reviews-Capri_by_Fraser_Changi_City-Singapore.html
+50,b'One Farrer Hotel',1859,b'#20 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d6530192-Reviews-One_Farrer_Hotel-Singapore.html
+51,b'Royal Plaza on Scotts',4931,b'#21 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d304611-Reviews-Royal_Plaza_on_Scotts-Singapore.html
+52,b'PARKROYAL on Pickering',3968,b'#22 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3523347-Reviews-PARKROYAL_on_Pickering-Singapore.html
+53,b'Village Hotel Changi by Far East Hospitality',4977,b'#23 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2090222-Reviews-Village_Hotel_Changi_by_Far_East_Hospitality-Singapore.html
+54,b'Sofitel Singapore Sentosa Resort & Spa',2488,b'#24 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d302969-Reviews-Sofitel_Singapore_Sentosa_Resort_Spa-Sentosa_Island.html
+55,b'Marina Mandarin Singapore',7269,b'#25 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d300855-Reviews-Marina_Mandarin_Singapore-Singapore.html
+56,b'Grand Hyatt Singapore',3915,b'#26 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306175-Reviews-Grand_Hyatt_Singapore-Singapore.html
+57,b'Crowne Plaza Changi Airport',5765,b'#27 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1086295-Reviews-Crowne_Plaza_Changi_Airport-Singapore.html
+58,b'Park Avenue Changi Hotel',638,b'#28 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4328402-Reviews-Park_Avenue_Changi_Hotel-Singapore.html
+59,b'Mandarin Orchard Singapore',11187,b'#29 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d300850-Reviews-Mandarin_Orchard_Singapore-Singapore.html
+60,b'Resorts World Sentosa - Equarius Hotel',1488,b'#30 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d1447343-Reviews-Resorts_World_Sentosa_Equarius_Hotel-Sentosa_Island.html
+61,b'Holiday Inn Express Singapore Katong',577,b'#31 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d8777586-Reviews-Holiday_Inn_Express_Singapore_Katong-Singapore.html
+62,b'V Hotel Bencoolen',2024,b'#32 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4609397-Reviews-V_Hotel_Bencoolen-Singapore.html
+63,b'Holiday Inn Singapore Orchard City Centre',4109,b'#33 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306178-Reviews-Holiday_Inn_Singapore_Orchard_City_Centre-Singapore.html
+64,b'Pan Pacific Singapore',9729,b'#34 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d302294-Reviews-Pan_Pacific_Singapore-Singapore.html
+65,b'Dorsett Singapore',1207,b'#35 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4116146-Reviews-Dorsett_Singapore-Singapore.html
+66,b'InterContinental Singapore',1827,b'#36 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d299199-Reviews-InterContinental_Singapore-Singapore.html
+67,b'Village Hotel Albert Court by Far East Hospitality',2963,b'#37 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306155-Reviews-Village_Hotel_Albert_Court_by_Far_East_Hospitality-Singapore.html
+68,b'Swissotel The Stamford Singapore',9385,b'#38 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301573-Reviews-Swissotel_The_Stamford_Singapore-Singapore.html
+69,b'Park Hotel Farrer Park',1053,b'#39 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12145100-Reviews-Park_Hotel_Farrer_Park-Singapore.html
+70,b'Village Hotel at Sentosa by Far East Hospitality',83,b'#40 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d15294579-Reviews-Village_Hotel_at_Sentosa_by_Far_East_Hospitality-Sentosa_Island.html
+71,"b'Shangri-La Hotel, Singapore'",6031,b'#41 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d302109-Reviews-Shangri_La_Hotel_Singapore-Singapore.html
+72,"b'Oasia Hotel Novena, Singapore by Far East Hospitality'",4719,b'#42 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2226820-Reviews-Oasia_Hotel_Novena_Singapore_by_Far_East_Hospitality-Singapore.html
+73,"b'Mandarin Oriental, Singapore'",6627,b'#43 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301468-Reviews-Mandarin_Oriental_Singapore-Singapore.html
+74,b'Amara Singapore',2755,b'#44 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d305416-Reviews-Amara_Singapore-Singapore.html
+75,b'Hotel Jen Tanglin Singapore by Shangri-La',1183,b'#45 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d302105-Reviews-Hotel_Jen_Tanglin_Singapore_by_Shangri_La-Singapore.html
+76,b'Concorde Hotel Singapore',4141,b'#46 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d302514-Reviews-Concorde_Hotel_Singapore-Singapore.html
+77,b'Changi Cove',411,b'#47 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d5315913-Reviews-Changi_Cove-Singapore.html
+78,"b""Shangri-La's Rasa Sentosa Resort & Spa""",4288,b'#48 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d302107-Reviews-Shangri_La_s_Rasa_Sentosa_Resort_Spa-Sentosa_Island.html
+79,b'Holiday Inn Express Singapore Orchard Road',1137,b'#49 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4456040-Reviews-Holiday_Inn_Express_Singapore_Orchard_Road-Singapore.html
+80,b'W Singapore Sentosa Cove',2438,b'#50 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d3300141-Reviews-W_Singapore_Sentosa_Cove-Sentosa_Island.html
+81,b'Four Seasons Hotel Singapore',2373,b'#51 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301897-Reviews-Four_Seasons_Hotel_Singapore-Singapore.html
+82,b'Goodwood Park Hotel',2099,b'#52 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301478-Reviews-Goodwood_Park_Hotel-Singapore.html
+83,"b""Lloyd's Inn Singapore""",964,b'#53 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d338321-Reviews-Lloyd_s_Inn_Singapore-Singapore.html
+84,b'Andaz Singapore',845,b'#54 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12700216-Reviews-Andaz_Singapore-Singapore.html
+85,b'Naumi Hotel Singapore',2724,b'#55 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306182-Reviews-Naumi_Hotel_Singapore-Singapore.html
+86,b'Carlton City Hotel Singapore',1775,b'#56 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4400778-Reviews-Carlton_City_Hotel_Singapore-Singapore.html
+87,b'Oakwood Premier OUE Singapore',120,b'#57 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12318593-Reviews-Oakwood_Premier_OUE_Singapore-Singapore.html
+88,b'Quincy Hotel by Far East Hospitality',3513,b'#58 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1235512-Reviews-Quincy_Hotel_by_Far_East_Hospitality-Singapore.html
+89,"b'The Ritz-Carlton, Millenia Singapore'",5620,b'#59 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d302231-Reviews-The_Ritz_Carlton_Millenia_Singapore-Singapore.html
+90,b'Capella Singapore',1889,b'#60 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d1307604-Reviews-Capella_Singapore-Sentosa_Island.html
+91,"b'Four Points by Sheraton Singapore, Riverview'",1049,b'#61 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306107-Reviews-Four_Points_by_Sheraton_Singapore_Riverview-Singapore.html
+92,b'Holiday Inn Singapore Atrium',2878,b'#62 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d305454-Reviews-Holiday_Inn_Singapore_Atrium-Singapore.html
+93,b'Novotel Singapore Clarke Quay',7117,b'#63 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301010-Reviews-Novotel_Singapore_Clarke_Quay-Singapore.html
+94,b'Grand Mercure Singapore Roxy',5243,b'#64 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d299850-Reviews-Grand_Mercure_Singapore_Roxy-Singapore.html
+95,b'Aqueen Heritage Hotel Joo Chiat',203,b'#65 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d10113627-Reviews-Aqueen_Heritage_Hotel_Joo_Chiat-Singapore.html
+96,b'Novotel Singapore On Stevens',462,b'#66 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12825240-Reviews-Novotel_Singapore_On_Stevens-Singapore.html
+97,b'Mercure Singapore On Stevens',283,b'#67 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d13135926-Reviews-Mercure_Singapore_On_Stevens-Singapore.html
+98,"b'Oasia Hotel Downtown, Singapore by Far East Hospitality'",1944,b'#68 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d9872551-Reviews-Oasia_Hotel_Downtown_Singapore_by_Far_East_Hospitality-Singapore.html
+99,b'PARKROYAL on Kitchener Road',4933,b'#69 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306183-Reviews-PARKROYAL_on_Kitchener_Road-Singapore.html
+100,b'Park Hotel Alexandra',2127,b'#70 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7621450-Reviews-Park_Hotel_Alexandra-Singapore.html
+101,b'PARKROYAL on Beach Road',3194,b'#71 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306192-Reviews-PARKROYAL_on_Beach_Road-Singapore.html
+102,b'Swissotel Merchant Court Singapore',6248,b'#72 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301577-Reviews-Swissotel_Merchant_Court_Singapore-Singapore.html
+103,b'SO Sofitel Singapore',2209,b'#73 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2590427-Reviews-SO_Sofitel_Singapore-Singapore.html
+104,b'Carlton Hotel Singapore',4683,b'#74 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306161-Reviews-Carlton_Hotel_Singapore-Singapore.html
+105,"b'Le Meridien Singapore, Sentosa'",1653,b'#75 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d547087-Reviews-Le_Meridien_Singapore_Sentosa-Sentosa_Island.html
+106,b'Hotel Indigo Singapore Katong',641,b'#76 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d8767815-Reviews-Hotel_Indigo_Singapore_Katong-Singapore.html
+107,b'Conrad Centennial Singapore',5284,b'#77 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306166-Reviews-Conrad_Centennial_Singapore-Singapore.html
+108,b'Wangz Hotel',1448,b'#78 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1553862-Reviews-Wangz_Hotel-Singapore.html
+109,b'The Scarlet Singapore',1875,b'#79 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d503404-Reviews-The_Scarlet_Singapore-Singapore.html
+110,b'Hotel Mi',455,b'#80 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12834200-Reviews-Hotel_Mi-Singapore.html
+111,b'Park Regis Singapore',4668,b'#81 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1935912-Reviews-Park_Regis_Singapore-Singapore.html
+112,b'Ascott Raffles Place Singapore',494,b'#82 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1083872-Reviews-Ascott_Raffles_Place_Singapore-Singapore.html
+113,b'Ann Siang House',66,b'#83 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d13406165-Reviews-Ann_Siang_House-Singapore.html
+114,b'Grand Park Orchard',2637,b'#84 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d593658-Reviews-Grand_Park_Orchard-Singapore.html
+115,b'Aqueen Hotel Paya Lebar',312,b'#85 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d8064827-Reviews-Aqueen_Hotel_Paya_Lebar-Singapore.html
+116,b'Ascott Orchard Singapore',301,b'#86 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d11742592-Reviews-Ascott_Orchard_Singapore-Singapore.html
+117,b'Sofitel Singapore City Centre',362,b'#87 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12525934-Reviews-Sofitel_Singapore_City_Centre-Singapore.html
+118,b'Villa Samadhi Singapore by Samadhi',213,b'#88 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7940674-Reviews-Villa_Samadhi_Singapore_by_Samadhi-Singapore.html
+119,b'Hotel Fort Canning',1706,b'#89 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1822389-Reviews-Hotel_Fort_Canning-Singapore.html
+120,b'The Fullerton Bay Hotel Singapore',1863,b'#90 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1845693-Reviews-The_Fullerton_Bay_Hotel_Singapore-Singapore.html
+121,b'Ramada by Wyndham Singapore at Zhongshan Park',3175,b'#91 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3505884-Reviews-Ramada_by_Wyndham_Singapore_at_Zhongshan_Park-Singapore.html
+122,b'Courtyard by Marriott Singapore Novena',315,b'#92 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12554757-Reviews-Courtyard_by_Marriott_Singapore_Novena-Singapore.html
+123,b'Hilton Singapore',3319,b'#93 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306197-Reviews-Hilton_Singapore-Singapore.html
+124,b'Regent Singapore',2125,b'#94 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301431-Reviews-Regent_Singapore-Singapore.html
+125,b'InterContinental Singapore Robertson Quay',472,b'#95 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d11717216-Reviews-InterContinental_Singapore_Robertson_Quay-Singapore.html
+126,b'Days Hotel by Wyndham Singapore at Zhongshan Park',2546,b'#96 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3423710-Reviews-Days_Hotel_by_Wyndham_Singapore_at_Zhongshan_Park-Singapore.html
+127,b'Sheraton Towers Singapore',1973,b'#97 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301803-Reviews-Sheraton_Towers_Singapore-Singapore.html
+128,b'The Outpost Hotel at Sentosa by Far East Hospitality',47,b'#98 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d15743578-Reviews-The_Outpost_Hotel_at_Sentosa_by_Far_East_Hospitality-Sentosa_Island.html
+129,b'JW Marriott Hotel Singapore South Beach',1779,b'#99 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7736497-Reviews-JW_Marriott_Hotel_Singapore_South_Beach-Singapore.html
+130,b'Fairmont Singapore',7259,b'#100 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301581-Reviews-Fairmont_Singapore-Singapore.html
+131,b'The Westin Singapore',1683,b'#101 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4720057-Reviews-The_Westin_Singapore-Singapore.html
+132,b'Singapore Marriott Tang Plaza Hotel',3340,b'#102 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d299774-Reviews-Singapore_Marriott_Tang_Plaza_Hotel-Singapore.html
+133,b'Somerset Bencoolen',328,b'#103 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d472109-Reviews-Somerset_Bencoolen-Singapore.html
+134,b'The St. Regis Singapore',2580,b'#104 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d678328-Reviews-The_St_Regis_Singapore-Singapore.html
+135,"b'The Vagabond Club, Singapore, a Tribute Portfolio Hotel'",870,b'#105 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7659569-Reviews-The_Vagabond_Club_Singapore_a_Tribute_Portfolio_Hotel-Singapore.html
+136,b'AMOY by Far East Hospitality',1584,b'#106 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4341475-Reviews-AMOY_by_Far_East_Hospitality-Singapore.html
+137,b'The Capitol Kempinski Hotel Singapore',58,b'#107 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d14951821-Reviews-The_Capitol_Kempinski_Hotel_Singapore-Singapore.html
+138,b'Hotel Boss',3112,b'#108 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d9587422-Reviews-Hotel_Boss-Singapore.html
+139,"b""D'Resort at Downtown East""",575,b'#109 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d506263-Reviews-D_Resort_at_Downtown_East-Singapore.html
+140,b'Hilton Garden Inn Singapore Serangoon',840,b'#110 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12118505-Reviews-Hilton_Garden_Inn_Singapore_Serangoon-Singapore.html
+141,b'Village Hotel Bugis by Far East Hospitality',4362,b'#111 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d305486-Reviews-Village_Hotel_Bugis_by_Far_East_Hospitality-Singapore.html
+142,b'Furama RiverFront',3111,b'#112 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d300321-Reviews-Furama_RiverFront-Singapore.html
+143,b'Hotel Kai',314,b'#113 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d6206536-Reviews-Hotel_Kai-Singapore.html
+144,b'V Hotel Lavender',4516,b'#114 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2178797-Reviews-V_Hotel_Lavender-Singapore.html
+145,b'Keong Saik Hotel',314,b'#115 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d584452-Reviews-Keong_Saik_Hotel-Singapore.html
+146,b'Venue Hotel The Lily',367,b'#116 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d562395-Reviews-Venue_Hotel_The_Lily-Singapore.html
+147,b'Amara Sanctuary Resort Sentosa',371,b'#117 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d662514-Reviews-Amara_Sanctuary_Resort_Sentosa-Sentosa_Island.html
+148,"b""Copthorne King's Hotel Singapore""",1464,b'#118 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301674-Reviews-Copthorne_King_s_Hotel_Singapore-Singapore.html
+149,b'Hotel Miramar Singapore',1052,b'#119 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d308393-Reviews-Hotel_Miramar_Singapore-Singapore.html
+150,b'Resorts World Sentosa - Crockfords Tower',160,b'#120 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d1447337-Reviews-Resorts_World_Sentosa_Crockfords_Tower-Sentosa_Island.html
+151,b'ibis Singapore Novena',1525,b'#121 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2002652-Reviews-Ibis_Singapore_Novena-Singapore.html
+152,b'Strand Hotel',562,b'#122 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d338340-Reviews-Strand_Hotel-Singapore.html
+153,b'Champion Hotel',471,b'#123 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d562405-Reviews-Champion_Hotel-Singapore.html
+154,b'Venue Hotel',535,b'#124 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3825483-Reviews-Venue_Hotel-Singapore.html
+155,b'Orchard Rendezvous Hotel by Far East Hospitality',2987,b'#125 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306186-Reviews-Orchard_Rendezvous_Hotel_by_Far_East_Hospitality-Singapore.html
+156,b'Tai Hoe Hotel',585,b'#126 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1493532-Reviews-Tai_Hoe_Hotel-Singapore.html
+157,b'Mayo Inn',185,b'#127 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d785372-Reviews-Mayo_Inn-Singapore.html
+158,b'York Hotel',1515,b'#128 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306198-Reviews-York_Hotel-Singapore.html
+159,b'Destination Singapore Beach Road',801,b'#129 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d10290687-Reviews-Destination_Singapore_Beach_Road-Singapore.html
+160,b'The Elizabeth Hotel by Far East Hospitality',1924,b'#130 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306143-Reviews-The_Elizabeth_Hotel_by_Far_East_Hospitality-Singapore.html
+161,b'Hotel 81 - Star',642,b'#131 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d505804-Reviews-Hotel_81_Star-Singapore.html
+162,b'Aqueen Hotel Balestier',402,b'#132 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1441156-Reviews-Aqueen_Hotel_Balestier-Singapore.html
+163,b'Hotel Clover The Arts',336,b'#133 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d6503606-Reviews-Hotel_Clover_The_Arts-Singapore.html
+164,b'Orchid Hotel',503,b'#134 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2243163-Reviews-Orchid_Hotel-Singapore.html
+165,b'Resorts World Sentosa - Festive Hotel',2164,b'#135 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d1447340-Reviews-Resorts_World_Sentosa_Festive_Hotel-Sentosa_Island.html
+166,b'The Fragrance Hotel (Joo Chiat)',396,b'#136 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d506320-Reviews-The_Fragrance_Hotel_Joo_Chiat-Singapore.html
+167,b'Santa Grand Hotel Bugis',1162,b'#137 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1650499-Reviews-Santa_Grand_Hotel_Bugis-Singapore.html
+168,b'Santa Grand Hotel East Coast',874,b'#138 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2435023-Reviews-Santa_Grand_Hotel_East_Coast-Singapore.html
+169,b'Hotel Clover 33 Jalan Sultan',249,b'#139 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d6898221-Reviews-Hotel_Clover_33_Jalan_Sultan-Singapore.html
+170,b'Bay Hotel Singapore',1057,b'#140 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2340601-Reviews-Bay_Hotel_Singapore-Singapore.html
+171,b'The Daulat',283,b'#141 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3878907-Reviews-The_Daulat-Singapore.html
+172,b'Fragrance Hotel - Bugis',503,b'#142 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1823538-Reviews-Fragrance_Hotel_Bugis-Singapore.html
+173,b'Bliss Hotel Singapore',769,b'#143 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3750341-Reviews-Bliss_Hotel_Singapore-Singapore.html
+174,b'Hotel NuVe Urbane',173,b'#144 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12645423-Reviews-Hotel_NuVe_Urbane-Singapore.html
+175,b'Aqueen Hotel Jalan Besar',322,b'#145 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d6402157-Reviews-Aqueen_Hotel_Jalan_Besar-Singapore.html
+176,b'Fort Canning Lodge',861,b'#146 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d309917-Reviews-Fort_Canning_Lodge-Singapore.html
+177,b'Summer View Hotel',569,b'#147 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d308378-Reviews-Summer_View_Hotel-Singapore.html
+178,b'Six Senses Duxton',78,b'#148 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d13792294-Reviews-Six_Senses_Duxton-Singapore.html
+179,b'Arcadia Hotel',105,b'#149 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d9798875-Reviews-Arcadia_Hotel-Singapore.html
+180,b'Hard Rock Hotel Singapore',2413,b'#150 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d1447339-Reviews-Hard_Rock_Hotel_Singapore-Sentosa_Island.html
+181,b'Fragrance Hotel - Pearl',345,b'#151 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d505504-Reviews-Fragrance_Hotel_Pearl-Singapore.html
+182,b'Ibis Styles Singapore on Macpherson',626,b'#152 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d8623711-Reviews-Ibis_Styles_Singapore_on_Macpherson-Singapore.html
+183,b'Fragrance Hotel - Emerald',81,b'#153 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d568053-Reviews-Fragrance_Hotel_Emerald-Singapore.html
+184,b'Value Hotel Nice',255,b'#154 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1511521-Reviews-Value_Hotel_Nice-Singapore.html
+185,b'Value Hotel Balestier',716,b'#155 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1385699-Reviews-Value_Hotel_Balestier-Singapore.html
+186,b'Hotel 1929',660,b'#156 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306179-Reviews-Hotel_1929-Singapore.html
+187,b'City Inn Mackenzie',353,b'#157 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d10055662-Reviews-City_Inn_Mackenzie-Singapore.html
+188,b'Grand Pacific Hotel',1353,b'#158 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306156-Reviews-Grand_Pacific_Hotel-Singapore.html
+189,b'Hotel YAN',620,b'#159 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d8637722-Reviews-Hotel_YAN-Singapore.html
+190,b'Mercure Singapore Bugis',1255,b'#160 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d10391133-Reviews-Mercure_Singapore_Bugis-Singapore.html
+191,b'Jayleen 1918 Hotel',292,b'#161 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1892763-Reviews-Jayleen_1918_Hotel-Singapore.html
+192,b'Fragrance Hotel - Oasis',346,b'#162 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1015610-Reviews-Fragrance_Hotel_Oasis-Singapore.html
+193,b'Arton Boutique Hotel',332,b'#163 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d5887964-Reviews-Arton_Boutique_Hotel-Singapore.html
+194,b'RELC International Hotel',310,b'#164 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d308397-Reviews-RELC_International_Hotel-Singapore.html
+195,b'Peninsula Excelsior Hotel',4836,b'#165 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d593661-Reviews-Peninsula_Excelsior_Hotel-Singapore.html
+196,b'Aqueen Hotel Lavender',879,b'#166 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1574780-Reviews-Aqueen_Hotel_Lavender-Singapore.html
+197,b'Hotel Re!',825,b'#167 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1088871-Reviews-Hotel_Re-Singapore.html
+198,b'Hotel Bencoolen @ Bencoolen Street',660,b'#168 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d309898-Reviews-Hotel_Bencoolen_Bencoolen_Street-Singapore.html
+199,b'Orchid Country Club',163,b'#169 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1531978-Reviews-Orchid_Country_Club-Singapore.html
+200,b'The Sultan',367,b'#170 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2375182-Reviews-The_Sultan-Singapore.html
+201,b'Hotel Clover',381,b'#171 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d5324609-Reviews-Hotel_Clover-Singapore.html
+202,b'The Southbridge Hotel',332,b'#172 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d5042956-Reviews-The_Southbridge_Hotel-Singapore.html
+203,b'Link Hotel',343,b'#173 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d677036-Reviews-Link_Hotel-Singapore.html
+204,b'Hotel Clover 769 North Bridge Road',138,b'#174 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4328268-Reviews-Hotel_Clover_769_North_Bridge_Road-Singapore.html
+205,b'Hotel Mono',159,b'#175 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d562403-Reviews-Hotel_Mono-Singapore.html
+206,b'Perak Hotel',598,b'#176 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d498395-Reviews-Perak_Hotel-Singapore.html
+207,b'Genting Hotel Jurong',464,b'#177 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294263-d7612688-Reviews-Genting_Hotel_Jurong-Jurong.html
+208,b'Fragrance Hotel - Rose',91,b'#178 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d598441-Reviews-Fragrance_Hotel_Rose-Singapore.html
+209,b'Hotel Michael',870,b'#179 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d1447338-Reviews-Hotel_Michael-Sentosa_Island.html
+210,b'five/6 Hotel Splendour',79,b'#180 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4329374-Reviews-Five_6_Hotel_Splendour-Singapore.html
+211,b'The Seacare Hotel',250,b'#181 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3315718-Reviews-The_Seacare_Hotel-Singapore.html
+212,b'Fragrance Hotel - Sunflower',176,b'#182 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1008216-Reviews-Fragrance_Hotel_Sunflower-Singapore.html
+213,b'Broadway Hotel Singapore',214,b'#183 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d309914-Reviews-Broadway_Hotel_Singapore-Singapore.html
+214,b'Hotel 81 Dickson',1365,b'#184 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d562402-Reviews-Hotel_81_Dickson-Singapore.html
+215,b'Fragrance Hotel - Crystal',596,b'#185 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d504988-Reviews-Fragrance_Hotel_Crystal-Singapore.html
+216,b'Park 22 Hotel Little India',56,b'#186 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d10961802-Reviews-Park_22_Hotel_Little_India-Singapore.html
+217,b'Hotel 81 Hollywood',232,b'#187 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d506323-Reviews-Hotel_81_Hollywood-Singapore.html
+218,b'Hotel Royal at Queens',841,b'#188 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d583028-Reviews-Hotel_Royal_at_Queens-Singapore.html
+219,b'Siloso Beach Resort Sentosa',1581,b'#189 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d627293-Reviews-Siloso_Beach_Resort_Sentosa-Sentosa_Island.html
+220,b'Lemon Grass Hotel',162,b'#190 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1159908-Reviews-Lemon_Grass_Hotel-Singapore.html
+221,b'Fragrance Hotel - Riverside',1035,b'#191 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2439500-Reviews-Fragrance_Hotel_Riverside-Singapore.html
+222,b'Hotel Classic by Venue',121,b'#192 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d14911702-Reviews-Hotel_Classic_by_Venue-Singapore.html
+223,b'Hotel 81 - Sakura',169,b'#193 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d584854-Reviews-Hotel_81_Sakura-Singapore.html
+224,b'Santa Grand Hotel West Coast',209,b'#194 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d620229-Reviews-Santa_Grand_Hotel_West_Coast-Singapore.html
+225,b'XY Hotel Bugis Singapore',155,b'#195 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12433284-Reviews-XY_Hotel_Bugis_Singapore-Singapore.html
+226,b'Klapstar Boutique Hotel',236,b'#196 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1581565-Reviews-Klapstar_Boutique_Hotel-Singapore.html
+227,b'South East Asia Hotel',204,b'#197 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d579210-Reviews-South_East_Asia_Hotel-Singapore.html
+228,b'Parc Sovereign Hotel - Albert St.',1120,b'#198 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2093622-Reviews-Parc_Sovereign_Hotel_Albert_St-Singapore.html
+229,b'The Quay Hotel',55,b'#199 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12456473-Reviews-The_Quay_Hotel-Singapore.html
+230,b'Fragrance Hotel - Royal',122,b'#200 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1535340-Reviews-Fragrance_Hotel_Royal-Singapore.html
+231,b'Hotel 81 Rochor',232,b'#201 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1072358-Reviews-Hotel_81_Rochor-Singapore.html
+232,b'Classique Hotel',73,b'#202 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d640516-Reviews-Classique_Hotel-Singapore.html
+233,b'Fragrance Hotel - Balestier',183,b'#203 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d779576-Reviews-Fragrance_Hotel_Balestier-Singapore.html
+234,b'Parc Sovereign Hotel - Tyrwhitt',1143,b'#204 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d6741981-Reviews-Parc_Sovereign_Hotel_Tyrwhitt-Singapore.html
+235,b'Six Senses Maxwell',33,b'#205 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d14758770-Reviews-Six_Senses_Maxwell-Singapore.html
+236,b'VIP Hotel',111,b'#206 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1768864-Reviews-VIP_Hotel-Singapore.html
+237,b'Hotel 81-Tristar',293,b'#207 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1174552-Reviews-Hotel_81_Tristar-Singapore.html
+238,b'Fragrance Hotel - Selegie',118,b'#208 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d607470-Reviews-Fragrance_Hotel_Selegie-Singapore.html
+239,b'Jayleen Clarke Quay Hotel',72,b'#209 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d9001799-Reviews-Jayleen_Clarke_Quay_Hotel-Singapore.html
+240,b'Fragrance Hotel - Imperial',382,b'#210 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1015609-Reviews-Fragrance_Hotel_Imperial-Singapore.html
+241,b'Costa Sands Resort (Sentosa)',183,b'#211 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294264-d1792789-Reviews-Costa_Sands_Resort_Sentosa-Sentosa_Island.html
+242,b'Harbour Ville Hotel Hamilton @ Lavender',11,b'#212 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3556622-Reviews-Harbour_Ville_Hotel_Hamilton_Lavender-Singapore.html
+243,b'Hotel 81-Bugis',243,b'#213 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d657516-Reviews-Hotel_81_Bugis-Singapore.html
+244,b'Raintr33 Hotel Singapore',153,b'#214 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7388695-Reviews-Raintr33_Hotel_Singapore-Singapore.html
+245,b'M Hotel Singapore',2033,b'#215 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301680-Reviews-M_Hotel_Singapore-Singapore.html
+246,b'Harbour Ville Hotel',339,b'#216 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d559392-Reviews-Harbour_Ville_Hotel-Singapore.html
+247,b'Kam Leng Hotel',496,b'#217 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3160374-Reviews-Kam_Leng_Hotel-Singapore.html
+248,b'Hotel 81 - Orchid',493,b'#218 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d506262-Reviews-Hotel_81_Orchid-Singapore.html
+249,b'Hotel 81 - Geylang',319,b'#219 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d506327-Reviews-Hotel_81_Geylang-Singapore.html
+250,b'Value Hotel Thomson',1445,b'#220 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1511494-Reviews-Value_Hotel_Thomson-Singapore.html
+251,b'Victoria Hotel',45,b'#221 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12132265-Reviews-Victoria_Hotel-Singapore.html
+252,b'Aqueen Heritage Hotel Little India',31,b'#222 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d13484203-Reviews-Aqueen_Heritage_Hotel_Little_India-Singapore.html
+253,b'Holiday Inn Express Singapore Serangoon',13,b'#223 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1222995-Reviews-Holiday_Inn_Express_Singapore_Serangoon-Singapore.html
+254,b'Hotel 81 - Heritage',168,b'#224 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1383128-Reviews-Hotel_81_Heritage-Singapore.html
+255,b'Hotel 81 Changi',49,b'#225 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d11768252-Reviews-Hotel_81_Changi-Singapore.html
+256,b'YOTELAIR Singapore Changi Airport',5,b'#226 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d16645618-Reviews-YOTELAIR_Singapore_Changi_Airport-Singapore.html
+257,b'Hotel 81 Kovan',47,b'#227 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1916206-Reviews-Hotel_81_Kovan-Singapore.html
+258,b'Fragrance Hotel - Classic',59,b'#228 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2005592-Reviews-Fragrance_Hotel_Classic-Singapore.html
+259,b'Penta Hotel',80,b'#229 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d652477-Reviews-Penta_Hotel-Singapore.html
+260,b'Hotel 81 - Elegance',205,b'#230 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d779549-Reviews-Hotel_81_Elegance-Singapore.html
+261,b'Arena Country Club',16,b'#231 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2535002-Reviews-Arena_Country_Club-Singapore.html
+262,b'Hotel 81 - Osaka',117,b'#232 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1657875-Reviews-Hotel_81_Osaka-Singapore.html
+263,b'Jinshan Hotel',395,b'#233 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1913969-Reviews-Jinshan_Hotel-Singapore.html
+264,b'The Inn at Temple Street',386,b'#234 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306180-Reviews-The_Inn_at_Temple_Street-Singapore.html
+265,b'ABC Hostel',162,b'#235 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1462978-Reviews-ABC_Hostel-Singapore.html
+266,b'Amber Hotel',23,b'#236 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1630794-Reviews-Amber_Hotel-Singapore.html
+267,b'Moon 23 Hotel',489,b'#237 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1898744-Reviews-Moon_23_Hotel-Singapore.html
+268,b'Hotel 81 Balestier',36,b'#238 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2643131-Reviews-Hotel_81_Balestier-Singapore.html
+269,b'Park View Hotel',260,b'#239 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d562387-Reviews-Park_View_Hotel-Singapore.html
+270,b'Beach Hotel',167,b'#240 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306158-Reviews-Beach_Hotel-Singapore.html
+271,b'Hotel Royal',838,b'#241 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1218929-Reviews-Hotel_Royal-Singapore.html
+272,b'BudgetOne Hotel',10,b'#242 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7698454-Reviews-BudgetOne_Hotel-Singapore.html
+273,b'Four Chain View Hotel',63,b'#243 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d562404-Reviews-Four_Chain_View_Hotel-Singapore.html
+274,b'Hotel 81 - Chinatown',280,b'#244 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d506324-Reviews-Hotel_81_Chinatown-Singapore.html
+275,b'Hotel 81 - Palace',234,b'#245 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d506322-Reviews-Hotel_81_Palace-Singapore.html
+276,b'Fragrance Hotel - Viva',30,b'#246 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1795375-Reviews-Fragrance_Hotel_Viva-Singapore.html
+277,b'Hotel 81   Selegie',206,b'#247 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1160176-Reviews-Hotel_81_Selegie-Singapore.html
+278,b'Hotel 81 - Princess',243,b'#248 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d505976-Reviews-Hotel_81_Princess-Singapore.html
+279,b'Resorts World Sentosa - Hotel Michael',9,b'#249 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12963556-Reviews-Resorts_World_Sentosa_Hotel_Michael-Singapore.html
+280,b'Asphodel Inn Singapore',132,b'#250 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d430003-Reviews-Asphodel_Inn_Singapore-Singapore.html
+281,b'Robertson Quay Hotel',1100,b'#251 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306120-Reviews-Robertson_Quay_Hotel-Singapore.html
+282,b'Furama City Centre',3058,b'#252 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301949-Reviews-Furama_City_Centre-Singapore.html
+283,b'Hotel Chancellor at Orchard',517,b'#253 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d8316803-Reviews-Hotel_Chancellor_at_Orchard-Singapore.html
+284,b'Lai Ming Hotel Cosmoland',77,b'#254 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1599424-Reviews-Lai_Ming_Hotel_Cosmoland-Singapore.html
+285,b'Amrise Hotel',232,b'#255 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1935836-Reviews-Amrise_Hotel-Singapore.html
+286,b'Hotel Grand Central',539,b'#256 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306174-Reviews-Hotel_Grand_Central-Singapore.html
+287,b'Hotel 165',89,b'#257 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1808946-Reviews-Hotel_165-Singapore.html
+288,b'Studio M Hotel',2773,b'#258 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1656770-Reviews-Studio_M_Hotel-Singapore.html
+289,b'Hornbill Hotel',88,b'#259 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1109968-Reviews-Hornbill_Hotel-Singapore.html
+290,b'Arianna Hotel',240,b'#260 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2298837-Reviews-Arianna_Hotel-Singapore.html
+291,b'Pasir Panjang Inn',33,b'#261 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1798787-Reviews-Pasir_Panjang_Inn-Singapore.html
+292,b'Quality Hotel Marlow',345,b'#262 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d299607-Reviews-Quality_Hotel_Marlow-Singapore.html
+293,b'Regin Hotel',67,b'#263 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1186381-Reviews-Regin_Hotel-Singapore.html
+294,b'Marrison Hotel',340,b'#264 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2223865-Reviews-Marrison_Hotel-Singapore.html
+295,b'Darlene Hotel',24,b'#265 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3316258-Reviews-Darlene_Hotel-Singapore.html
+296,b'Butternut Tree Hotel',226,b'#266 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1937398-Reviews-Butternut_Tree_Hotel-Singapore.html
+297,b'Hotel Horsecity',1,b'#267 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d11666441-Reviews-Hotel_Horsecity-Singapore.html
+298,b'Hotel Supreme',415,b'#268 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d506315-Reviews-Hotel_Supreme-Singapore.html
+299,b'Fragrance Hotel - Waterfront',90,b'#269 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1089215-Reviews-Fragrance_Hotel_Waterfront-Singapore.html
+300,b'Oxford Hotel',153,b'#270 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306187-Reviews-Oxford_Hotel-Singapore.html
+301,b'Fragrance Hotel - Kovan',9,b'#271 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d633035-Reviews-Fragrance_Hotel_Kovan-Singapore.html
+302,b'Home Suite View Hotel',28,b'#272 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d10220090-Reviews-Home_Suite_View_Hotel-Singapore.html
+303,b'Fragrance Hotel - Ocean View',28,b'#273 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1235051-Reviews-Fragrance_Hotel_Ocean_View-Singapore.html
+304,b'Aliwal Park Hotel',58,b'#274 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d446809-Reviews-Aliwal_Park_Hotel-Singapore.html
+305,b'Kim Tian Hotel',0,b'#275 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d16867448-Reviews-Kim_Tian_Hotel-Singapore.html
+306,b'Hotel 81 Fuji',15,b'#276 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4889002-Reviews-Hotel_81_Fuji-Singapore.html
+307,b'Seng Wah Hotel',5,b'#277 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d8872365-Reviews-Seng_Wah_Hotel-Singapore.html
+308,b'ZenRooms Bukit Merah',3,b'#278 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d9991600-Reviews-ZenRooms_Bukit_Merah-Singapore.html
+309,b'Fragrance Hotel - Lavender',67,b'#279 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2219431-Reviews-Fragrance_Hotel_Lavender-Singapore.html
+310,b'The Duxton Club',0,b'#280 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d12421906-Reviews-The_Duxton_Club-Singapore.html
+311,b'Shangri-La Apartments',305,b'#281 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d506455-Reviews-Shangri_La_Apartments-Singapore.html
+312,b'Raffles Hotel Singapore',4350,b'#282 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d301583-Reviews-Raffles_Hotel_Singapore-Singapore.html
+313,"b'Pan Pacific Serviced Suites Beach Road, Singapore'",898,b'#283 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4310988-Reviews-Pan_Pacific_Serviced_Suites_Beach_Road_Singapore-Singapore.html
+314,b'Somerset Liang Court Singapore',725,b'#284 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d320014-Reviews-Somerset_Liang_Court_Singapore-Singapore.html
+315,"b'Fraser Place Robertson Walk, Singapore'",581,b'#285 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306171-Reviews-Fraser_Place_Robertson_Walk_Singapore-Singapore.html
+316,b'Royal At Newton Hotel Singapore',143,b'#286 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1210708-Reviews-Royal_At_Newton_Hotel_Singapore-Singapore.html
+317,b'Raffles Town Club',30,b'#287 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d982625-Reviews-Raffles_Town_Club-Singapore.html
+318,b'Laguna National Golf and Country Club',19,b'#288 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2276137-Reviews-Laguna_National_Golf_and_Country_Club-Singapore.html
+319,b'Wanderloft',1,b'#289 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d16663611-Reviews-Wanderloft-Singapore.html
+320,b'Welcome Inn Backpackers Hostel',4,b'#290 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1196100-Reviews-Welcome_Inn_Backpackers_Hostel-Singapore.html
+321,b'Radius International City Lodge',4,b'#291 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1541654-Reviews-Radius_International_City_Lodge-Singapore.html
+322,b'Cockpit Hotel International',2,b'#292 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1230647-Reviews-Cockpit_Hotel_International-Singapore.html
+323,b'Wow Hostels',76,b'#293 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1625675-Reviews-Wow_Hostels-Singapore.html
+324,b'SkyOrchids',15,b'#294 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d624401-Reviews-SkyOrchids-Singapore.html
+325,b'Island Resort',13,b'#295 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d951092-Reviews-Island_Resort-Singapore.html
+326,b'The Barracks Hotel',0,b'#296 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d17324106-Reviews-The_Barracks_Hotel-Singapore.html
+327,b'Butternut Tree Hotel',0,b'#297 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d16738519-Reviews-Butternut_Tree_Hotel-Singapore.html
+328,b'Pan Pacific Orchard',0,b'#298 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d17367079-Reviews-Pan_Pacific_Orchard-Singapore.html
+329,b'Room Werkz',0,b'#299 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1202159-Reviews-Room_Werkz-Singapore.html
+330,b'Fraser Suites Singapore',484,b'#300 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306172-Reviews-Fraser_Suites_Singapore-Singapore.html
+331,b'Pan Pacific Serviced Suites Orchard Singapore',208,b'#301 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1146123-Reviews-Pan_Pacific_Serviced_Suites_Orchard_Singapore-Singapore.html
+332,b'Orchard Grand Court',297,b'#302 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1073336-Reviews-Orchard_Grand_Court-Singapore.html
+333,b'PARKROYAL Serviced Suites Singapore',107,b'#303 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1175136-Reviews-PARKROYAL_Serviced_Suites_Singapore-Singapore.html
+334,b'Hotel Innotel',500,b'#304 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1982272-Reviews-Hotel_Innotel-Singapore.html
+335,b'Wanderlust',910,b'#305 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1801958-Reviews-Wanderlust-Singapore.html
+336,b'Fragrance Hotel - Ruby',921,b'#306 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d568052-Reviews-Fragrance_Hotel_Ruby-Singapore.html
+337,b'Fragrance Hotel - Sapphire',332,b'#307 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d667848-Reviews-Fragrance_Hotel_Sapphire-Singapore.html
+338,b'Santa Grand Hotel Little India',356,b'#308 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1390175-Reviews-Santa_Grand_Hotel_Little_India-Singapore.html
+339,b'Chang Ziang Hotel',136,b'#309 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d3181903-Reviews-Chang_Ziang_Hotel-Singapore.html
+340,b'RedDoorz Plus Victoria Hotel',39,b'#310 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d14030487-Reviews-RedDoorz_Plus_Victoria_Hotel-Singapore.html
+341,b'Citadines Fusionopolis Singapore',29,b'#311 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1485045-Reviews-Citadines_Fusionopolis_Singapore-Singapore.html
+342,b'Hotel 81 - Gold',290,b'#312 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d505855-Reviews-Hotel_81_Gold-Singapore.html
+343,b'Hotel 1887 - The New Opera House',52,b'#313 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d14800844-Reviews-Hotel_1887_The_New_Opera_House-Singapore.html
+344,b'The Warehouse Hotel',251,b'#314 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d11680778-Reviews-The_Warehouse_Hotel-Singapore.html
+345,b'Santa Grand Hotel Lai Chun Yuen',1166,b'#315 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2406995-Reviews-Santa_Grand_Hotel_Lai_Chun_Yuen-Singapore.html
+346,b'L Residence',41,b'#316 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1230932-Reviews-L_Residence-Singapore.html
+347,b'Chinatown Hotel',104,b'#317 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d338319-Reviews-Chinatown_Hotel-Singapore.html
+348,b'National Service Resort & Country Club',21,b'#318 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1787963-Reviews-National_Service_Resort_Country_Club-Singapore.html
+349,b'Haising Hotel',36,b'#319 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1229493-Reviews-Haising_Hotel-Singapore.html
+350,b'Hotel 81 - Cherry',9,b'#320 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d598298-Reviews-Hotel_81_Cherry-Singapore.html
+351,b'Malacca Hotel',1,b'#321 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d4341705-Reviews-Malacca_Hotel-Singapore.html
+352,b'ZEN Rooms Evergreen Residences',30,b'#322 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d9456769-Reviews-ZEN_Rooms_Evergreen_Residences-Singapore.html
+353,b'New Changi Hotel',19,b'#323 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d562399-Reviews-New_Changi_Hotel-Singapore.html
+354,b'Mayfair City Boarding House',1,b'#324 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d562389-Reviews-Mayfair_City_Boarding_House-Singapore.html
+355,b'Astro Hotel Singapore',2,b'#325 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d562588-Reviews-Astro_Hotel_Singapore-Singapore.html
+356,b'Golden Star Hotel',33,b'#326 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d2043994-Reviews-Golden_Star_Hotel-Singapore.html
+357,b'Jetquay Suites',0,b'#327 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d16732500-Reviews-Jetquay_Suites-Singapore.html
+358,b'Fortuna Hotel',188,b'#328 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d306170-Reviews-Fortuna_Hotel-Singapore.html
+359,b'City Beach Resort',11,b'#329 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1395143-Reviews-City_Beach_Resort-Singapore.html
+360,b'Le Peranakan Hotel',207,b'#330 Best Value of 348 hotels in Singapore',https://www.tripadvisor.com.sg/Hotel_Review-g294265-d1547084-Reviews-Le_Peranakan_Hotel-Singapore.html
