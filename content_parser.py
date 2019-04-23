@@ -42,10 +42,10 @@ def main():
         if not ratings:
             ratings = [None] * 5
 
-        hotel['overall_rating'] = overall_rating
-        hotel['address'] = address
-        hotel['phone'] = phone
-        hotel['rank'] = rank
+        hotel['overall_rating'] = overall_rating if overall_rating else None 
+        hotel['address'] = address if address else None
+        hotel['phone'] = phone if phone else None
+        hotel['rank'] = rank if rank else None
         hotel['excellent'] = ratings[0]
         hotel['good'] = ratings[1]
         hotel['average'] = ratings[2]
