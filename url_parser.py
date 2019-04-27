@@ -31,6 +31,7 @@ def main():
                     break
                 except:
                     driver.implicitly_wait(1)
+            driver.implicitly_wait(3)
             soup = BeautifulSoup(driver.page_source, 'html.parser')
 
         # extract data from hotel blocks
