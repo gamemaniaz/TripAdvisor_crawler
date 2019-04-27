@@ -13,7 +13,7 @@ def main():
 
     soup = BeautifulSoup(driver.page_source, 'html.parser')
     page_numbers = soup.find_all('span', {'class':['pageNum', 'last']})
-    page_count = int(list(filter(lambda link: set(link.get('class')) == set(['pageNum', 'last', 'taLnk', '']), page_numbers))[0].text)
+    page_count = int(list(filter(lambda link: set(link.get('class')) == set(['pageNum', 'last', 'taLnk', '']), page_numbers))[0].text) # remove '' if error appears 
 
     hotels = []
     hotel_id = 0

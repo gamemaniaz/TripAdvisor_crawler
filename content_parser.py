@@ -1,4 +1,6 @@
 import csv, re, requests
+from tqdm import tqdm
+from multiprocessing import Pool, Manager
 from bs4 import BeautifulSoup
 
 
@@ -20,26 +22,26 @@ def write_file(hotels):
             writer.writerow(hotel)
 
 
+def worker(hotel):
+    res = requests.get(hotel['url'])
+    soup = BeautifulSoup(res.text, 'html.parser')
+    ratings = [tag.text for tag in soup.find_all('span', {'class': 'hotels-review-list-parts-ReviewRatingFilter__row_num--gIW_f'})]
+    if not ratings: 
+        ratings = [tag.text for tag in soup.find_all('span', {'class': 'row_num is-shown-at-tablet'})]
+        if not ratings:
+            ratings = ['0'] * 5
+    labels = ['excellent', 'good', 'average', 'poor', 'terrible']
+    for i in range(5):
+        hotel[labels[i]] = int(ratings[i].replace(',', ''))
+
+
 def main():
-
     hotels = read_file()
-
-    for hotel in hotels:
-        
-        print('Scraping Hotel', hotel['id'])
-        soup = BeautifulSoup(requests.get(hotel['url']).text, 'html.parser')
-
-        # extracting hotel ratings
-        ratings = [tag.text for tag in soup.find_all('span', {'class': 'hotels-review-list-parts-ReviewRatingFilter__row_num--gIW_f'})]
-        if not ratings: ratings = [tag.text for tag in soup.find_all('span', {'class': 'row_num is-shown-at-tablet'})]
-
-        hotel['excellent'] = int(ratings[0].replace(',',''))
-        hotel['good'] = int(ratings[1].replace(',',''))
-        hotel['average'] = int(ratings[2].replace(',',''))
-        hotel['poor'] = int(ratings[3].replace(',',''))
-        hotel['terrible'] = int(ratings[4].replace(',',''))
-
-    write_file(hotels)
+    manager = Manager()
+    hotels_manager = manager.list([manager.dict(hotel) for hotel in hotels])
+    with Pool(10) as pool:
+        list(tqdm(pool.imap(worker, hotels_manager), total=len(hotels)))
+    write_file([dict(hotel) for hotel in hotels_manager])
 
 
 if __name__ == "__main__":
