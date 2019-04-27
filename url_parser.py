@@ -1,4 +1,4 @@
-import csv, re
+import csv, re, time
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -31,7 +31,7 @@ def main():
                     break
                 except:
                     driver.implicitly_wait(1)
-            driver.implicitly_wait(3)
+            time.sleep(3)
             soup = BeautifulSoup(driver.page_source, 'html.parser')
 
         # extract data from hotel blocks

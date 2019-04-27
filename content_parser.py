@@ -13,7 +13,7 @@ def read_file():
 def write_file(hotels):
     """ write extended hotel information """
     with open('data/hotel_ratings.csv', 'w', newline='') as csvfile:
-        fieldnames = ['id', 'hotel_name', 'n_comment', 'rank_in_country', 'url', 'overall_rating', 'address', 'phone', 'rank', 'excellent', 'good', 'average', 'poor', 'terrible']
+        fieldnames = ['id', 'hotel_name', 'n_comment', 'rank_in_country', 'url', 'excellent', 'good', 'average', 'poor', 'terrible']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for hotel in hotels:
@@ -27,30 +27,17 @@ def main():
     for hotel in hotels:
         
         print('Scraping Hotel', hotel['id'])
+        soup = BeautifulSoup(requests.get(hotel['url']).text, 'html.parser')
 
-        res = requests.get(hotel['url']).text
-        soup = BeautifulSoup(res, 'html.parser')
-
-        # extracting hotel information
-        info_block = soup.find('div', {'id': 'atf_header'})
-        overall_rating = soup.find('span', {'class': 'hotels-hotel-review-about-with-photos-Reviews__overallRating--vElGA'})
-        address = info_block.find('span', {'class': 'detail'}).text if info_block.find('span', {'class': 'detail'}) else None
-        phone = info_block.find('span', {'class': 'is-hidden-mobile'}).text if info_block.find('span', {'class': 'is-hidden-mobile'}) else None
-        rank = info_block.find('span', {'class': 'header_popularity'}).text if info_block.find('span', {'class': 'header_popularity'}) else None
+        # extracting hotel ratings
         ratings = [tag.text for tag in soup.find_all('span', {'class': 'hotels-review-list-parts-ReviewRatingFilter__row_num--gIW_f'})]
+        if not ratings: ratings = [tag.text for tag in soup.find_all('span', {'class': 'row_num is-shown-at-tablet'})]
 
-        if not ratings:
-            ratings = [None] * 5
-
-        hotel['overall_rating'] = overall_rating
-        hotel['address'] = address
-        hotel['phone'] = phone
-        hotel['rank'] = rank
-        hotel['excellent'] = ratings[0]
-        hotel['good'] = ratings[1]
-        hotel['average'] = ratings[2]
-        hotel['poor'] = ratings[3]
-        hotel['terrible'] = ratings[4]
+        hotel['excellent'] = int(ratings[0].replace(',',''))
+        hotel['good'] = int(ratings[1].replace(',',''))
+        hotel['average'] = int(ratings[2].replace(',',''))
+        hotel['poor'] = int(ratings[3].replace(',',''))
+        hotel['terrible'] = int(ratings[4].replace(',',''))
 
     write_file(hotels)
 
